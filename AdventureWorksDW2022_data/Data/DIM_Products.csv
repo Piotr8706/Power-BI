@@ -1,4 +1,5 @@
-﻿1;AR-5381;NULL;NULL;Adjustable Race;NULL;0;1000;NULL;NULL;NULL;NULL;NULL;NULL;Current
+﻿ProductKey;ProductAlternateKey;Category;Subcategory;Name;Cost;Continued;SafetyStockLevel;ListPrice;DealerPrice;Class;Style;ModelName;EnglishDescription;Status
+1;AR-5381;NULL;NULL;Adjustable Race;NULL;0;1000;NULL;NULL;NULL;NULL;NULL;NULL;Current
 2;BA-8327;NULL;NULL;Bearing Ball;NULL;0;1000;NULL;NULL;NULL;NULL;NULL;NULL;Current
 3;BE-2349;NULL;NULL;BB Ball Bearing;NULL;0;800;NULL;NULL;NULL;NULL;NULL;NULL;Current
 4;BE-2908;NULL;NULL;Headset Ball Bearings;NULL;0;800;NULL;NULL;NULL;NULL;NULL;NULL;Current
