@@ -32,13 +32,6 @@ The Car Sales dashboard presents visualizations and analytics derived from car s
 - Extract insights and make data-driven decisions based on the presented analytics.
 
 ## Contributing
-Contributions to improve the dashboards or add new features are welcome. To contribute:
-1. Fork the repository.
-2. Create a new branch for your feature: `git checkout -b feature-name`
-3. Make your changes.
-4. Commit your changes: `git commit -am 'Add new feature'`
-5. Push to the branch: `git push origin feature-name`
-6. Submit a pull request.
-
+Contributions to improve the dashboards or add new features are welcome. 
 ## License
-This project is licensed under the [MIT License](LICENSE). You are free to modify and distribute the code for personal or commercial use.
+This project is licensed under the [MIT License](LICENSE). You can modify and distribute the code for personal or commercial use.
