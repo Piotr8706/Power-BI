@@ -12,10 +12,10 @@ This project contains two Power BI dashboards showcasing data visualization and 
 6. [License](#license)
 
 ## AdventureWorks Dashboard
-The AdventureWorks dashboard provides insights into sales, product performance, customer demographics, and other relevant metrics based on the AdventureWorks sample database. It offers visualizations such as sales trends over time, product sales distribution, customer segmentation, and more.
+The AdventureWorks dashboard provides insights into sales, product performance, customer demographics, and other relevant metrics based on the AdventureWorks sample database. It offers visualizations of sales trends over time, product sales distribution, customer segmentation, and more. For this project, I followed the instructions from  https://www.youtube.com/watch?v=z7o5Wju-PZg&ab_channel=AliAhmad.
 
 ## Car Sales Dashboard
-The Car Sales dashboard presents visualizations and analytics derived from car sales data. It includes insights into sales by region, top-selling models, revenue trends, customer demographics, and other relevant metrics within the automotive industry.
+The Car Sales dashboard presents visualizations and analytics derived from car sales data. It includes insights into sales by region, top-selling models, revenue trends, customer demographics, and other relevant metrics within the automotive industry. For this project, I followed the instructions from  https://www.youtube.com/watch?v=XnPo5Ft7RzQ
 
 ## Installation
 1. Clone the repository to your local machine: `git clone https://github.com/yourusername/power-bi-dashboards.git`
